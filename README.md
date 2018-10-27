@@ -5,6 +5,17 @@ $ python --version
 Python 3.6.6
 ```
 
+System this was built and tested on,
+
+```shell
+$ lsb_release -a
+No LSB modules are available.
+Distributor ID:	Ubuntu
+Description:	Ubuntu 18.04.1 LTS
+Release:	18.04
+Codename:	bionic
+```
+
 
 You can import csv files (in correct format) using the management command,
 
